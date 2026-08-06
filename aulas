@@ -1,36 +1,38 @@
 Aula 02 06/08/26
-retomada da ultima aula:
-diferenças de produto convencional e software
+        retomada da ultima aula:
+  diferenças de produto convencional e software
 
-produto tradicional:
+  produto tradicional:
 material (pode ser tocado)
 desgaste, em algum momento deixa de funcionar ou fica muito ruim para se usar.
 
-software:
+  software:
 não material (nao pode ser tocado)
 é para sempre, nao tem desgaste (apesar de poder apresentar mais defeitos).
 
-campos de aplicação de software:
+        campos de aplicação de software:
 
-software de sistema:
+  software de sistema:
 um software criado para atender outros softwares.
 
-software de aplicação:
+  software de aplicação:
 um software que atende necessidades especificas.
 
-software cientifico/ de engenharia:
+  software cientifico/ de engenharia:
 software que trabalha com calculos/numeros pesados.
 
-software embutido:
+  software embutido:
 reside num produto ou sistema, para controlar caracteristicas e funções.
 
-software para linha de produtos:
+  software para linha de produtos:
 é uma abordagem que utiliza ativos reutilizáveis para desenvolver rapidamente uma família de softwares personalizados com menor custo e maior qualidade.
 
-aplicações para a web:
-webap: tem que ter um servidor rodando
+  aplicações para a web:
+webapp: tem que ter um servidor rodando
 
-software de inteligência artificial:
+  software de inteligência artificial:
 faz uso de algortimos para solucionar problemas.
 
+  software legado:
+foram desenvolvidos décadas atras, e tem sido continuamente modificados para se adequar a mudas dos requisitos de negocio e a plataformas computacionais.
 
