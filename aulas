@@ -1,3 +1,38 @@
+Aula 03 13/08/26
+        Figma:
+ferramenta para criar protótico de software, para mostrar uma ideia de como vai ficar 
+        U.M.L
+É uma linguagem visual padrão usada para desenhar, planejar, construir e documentar sistemas de software antes de escrever o código.
+
+                Engenharia
+É organizar o processo de construção:
+      
+        comunicação: 
+caracteristicas 
+requisitos
+        planejamento:
+orçamento
+tempo
+custo
+**protóripo
+        projeto
+plantas 
+conjunto de simbolos
+        contrução/implementação
+tijolo/codigo
+        entrega/implantação
+manutenção 
+documentação
+        Modelo Cascata:
+sugere uma abordagem sequencial e sistematica para o desenvolvimento de software
+        Modelo V:
+igual o cascata, porem com uma sequencia de testes conforme vai evoluindo o desenvolvimento
+        Modelo de processo incremental:
+Como se fossem varios modelos cascata, vai desenvolvento por partes.
+Por exemplo, faz o sistema de cadastro do produto, e ja entrega para o cliente, e depois continua desenvolvendo o restante
+
+
+
 Aula 02 06/08/26
         retomada da ultima aula:
   diferenças de produto convencional e software
