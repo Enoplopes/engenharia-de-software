@@ -1,3 +1,20 @@
+Aula 09 24/09
+                engenharia de requisitos
+concepção: entender o que quer fazer. em que area e o quem que vou afetar com esse sistema
+levantamento: tentar receber o maximo de opniões dos stakeholders (volume de informação)
+elaboração: separar as ideias em "caixas" conforme vou vendo o que quero no meu sistema
+negociação: na "caixa" que tu botou as ideia que tu ficou em duvida se vai ou nao, tu ve se tem outra forma de incremendar no sistema
+especificação: dos itens que restaram, especificar como vai ser cada item, e como vai funcionar
+validação: validar as informações dos requisitos. por exemplo em um cadastro, mostrar para o cliente como eu entendi e ele confirma se é assim ou nao
+gerenciamento: gerenciar como foi o processo, se pediu para mudar no meio de algum processo ou algo assim, para nao dar desentendimento
+
+        engenharia:
+é o processo de criar algo/obter algo
+        requisitos:
+dominio de negocio: é a area de aplicação do sistema. entender o que a area precisa e usa no sistema antes de fazer
+stakeholders:quem vai ser afetado no sistema (quem vai usar o sistema).
+
+
 Aula 05 27/08
         Metodologia Agil:
 Desenvolvimento Agil:
